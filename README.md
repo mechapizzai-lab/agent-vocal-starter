@@ -6,6 +6,26 @@ Un agent vocal IA qui répond au téléphone à ta place, comprend le besoin du 
 
 ---
 
+## ⚡ Démarrage rapide
+
+### Importer dans VS Code
+
+```bash
+git clone https://github.com/mechapizzai-lab/agent-vocal-starter.git
+cd agent-vocal-starter
+code .
+```
+
+### Importer dans Antigravity
+
+```bash
+git clone https://github.com/mechapizzai-lab/agent-vocal-starter.git
+```
+
+Ouvre ensuite le dossier `agent-vocal-starter` depuis Antigravity.
+
+---
+
 ## Concept clé
 
 Plutôt que de manquer des appels ou de passer du temps à qualifier chaque prospect, l'agent vocal prend en charge toute la conversation : il pose les bonnes questions, vérifie tes disponibilités en temps réel et pose le RDV directement dans ton calendrier — sans que tu n'aies à décrocher.
