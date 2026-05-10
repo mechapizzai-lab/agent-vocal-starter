@@ -81,4 +81,4 @@ Tu es membre payant de la communauté MechaPizzAI ? Tu as accès au **projet com
 - Dashboard inclus
 - Il ne reste qu'à remplir tes clés API
 
-👉 [Rejoindre la communauté MechaPizzAI sur Skool](https://skool.com)
+👉 [Rejoindre la communauté MechaPizzAI sur Skool](https://www.skool.com/mechapizzai/about)
